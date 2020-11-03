@@ -6,12 +6,11 @@ Description:
 * Please in repo you can find jar files to run automated tests cases over http://uitest.duodecadits.com/ link.
 * Gherkin.feature file in Gherkin for 100% PDF requirement list.
 
-Descriptions:
+Requirements:
 
--Firefox 46: https://ftp.mozilla.org/pub/firefox/releases/46.0/
 -Java Development Kit (JDK) 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
--Runnable JAR files from Github storage: https://github.com/deitydeelight/Docler_interview_test
--CMD promt
+-Repository JAR files: https://github.com/juampablex/docler/tree/master/src/task
+- Aditional Software Firefox: https://github.com/juampablex/docler/tree/master/soft
 
 
 1.Install(-Uninstall)
