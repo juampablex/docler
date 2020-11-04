@@ -1,5 +1,4 @@
-# QA_TestCase_Docler
-QA_TestCase_Docler for Juan Pablo Delgado
+# QA_TestCase_Docler for Juan Pablo Delgado
 
 Description:
 
